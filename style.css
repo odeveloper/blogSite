@@ -4,8 +4,10 @@ header{
   background: black;
 }
 ul{
+  align-text: center;
   list-style: none;
 }
 li{
+  align-text: center;
   display: inline;
 }
